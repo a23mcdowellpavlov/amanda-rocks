@@ -3,17 +3,22 @@
 layout: default
 ---
 
-# This is a big header
+# Graphs analyzing pre-lecture desire from students.
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. --> 
 
-<img src="c:\Users\a23mc\comp110-26s-workspace\Difficulty vs pre lec, low prior exp.png" alt="Difficulty vs pre lec, low exp." width="500">
+<img src="static/imgs/prelectureboxplot.png" alt="Histogram of each desire of pre-lecture vidoes." width="500"/>
 
-<img src="c:\Users\a23mc\comp110-26s-workspace\Understanding vs pre lec.png" alt="Image of okComp110 rainbow logo. "  width="500"/>
+<img src="static/imgs/difficultypointplot.png" alt="Difficulty line plot" width="500"/>
 
-<img src="c:\Users\a23mc\comp110-26s-workspace\Boxplot.png" alt="Boxplot difficulty vs pre-lecture videos."  width="500"/>
+<img src="static/imgs/difficultylowpriorexp.png" alt="Difficulty low prior experience line plot"  width="500"/>
 
-## This is a small header
+<img src="static/imgs/understandinglineplot.png" alt="Understanding vs pre-lecture video lineplot." width="500"/>
+
+<img src="static/imgs/boxplotdifficulty.png" alt="Difficulty vs pre-lecture video boxplot." width="500">
+
+
+## Analysis & Conclusion
 
 Overall, there seems to be a strong reason for implementing pre-lecture videos. Among students who find the class difficult, there is a much higher desire for pre-lecture videos. This suggests that students who feel confused by the content believe these videos would be helpful. This pattern is especially apparent for students with 0–6 months of prior coding experience, where the positive correlation is much stronger than for all students. Additionally, the overwhelming majority of students reported at least a 5 for their desire for pre-lecture videos. This includes students who do not find the class overly difficult, as they would likely still want a refresher to better support their learning.
 
